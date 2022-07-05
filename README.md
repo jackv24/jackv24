@@ -1,6 +1,6 @@
 ## Hi, my name's Jack!
 
-I currently work as a game programmer, but this account only has my public personal stuff on it (I host my own [Gitea](https://github.com/go-gitea/gitea) instance for private stuff) so please excuse the pretty bare commit history! 😅
+I currently work as a game programmer, but this account only has my personal stuff on it so please excuse the pretty bare commit history!
 
 <h3 align="center">-- My Links --</h3>
 
