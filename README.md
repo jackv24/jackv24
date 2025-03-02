@@ -1,3 +1,1 @@
-I currently work as a game programmer, but this account only has my personal stuff on it so please excuse the pretty bare commit history!
-
-Profile links at my [personal website](https://jackvine.com/)
+Not super in use anymore, been self hosting my own private git service so this page will stay pretty dead!
